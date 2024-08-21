@@ -77,7 +77,7 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICEN
 
 ---
 
-Espero que você ache este repositório útil e interessante! Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato. 😊
+Espero que você ache este repositório útil e interessante! Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato. 😀
 
 ---
 
